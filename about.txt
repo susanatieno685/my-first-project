@@ -1,0 +1,1 @@
+This project aims to assist me to learn and master how to manage changes on Git and Github and how to explore history
