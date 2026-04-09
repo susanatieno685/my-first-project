@@ -1,3 +1,3 @@
 This is my first assignment on Git and Github
 
-Total commits: 4
+Total commits: 7
