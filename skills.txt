@@ -1,0 +1,10 @@
+Database Management (basic schema design, querying)
+Command Line / Terminal usage
+Debugging & troubleshooting code
+Responsive Web Design
+Basic UI/UX principles
+API usage (fetching data)
+Form handling & validation
+Version control workflows (pull, merge, resolve conflicts)
+Basic programming concepts (loops, conditionals, functions)
+Data analysis basics using SQL
